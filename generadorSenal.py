@@ -1,5 +1,5 @@
 ##Generador de señales senoidales con Python para el ciclo de publicaicones sobre Procesamiento Digital de Señales
-#
+##Más información en mi blog: https://medium.com/@torguerraf/generar-se%C3%B1ales-senoidales-con-python-aba79e2fb0c
 #Importanto las librerías necesarias
 import numpy as np
 import matplotlib.pyplot as plt
